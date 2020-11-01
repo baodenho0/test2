@@ -1,4 +1,8 @@
 testsdasdasd
-.
+
 
 test conbfile test2
+
+
+test confix coppy 
+
